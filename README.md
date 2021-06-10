@@ -9,3 +9,5 @@ The objective of this project is to build a hybrid model for stock price/perform
 + Machine Learning Algorithm used: Chained Multioutput Random Forest Regression  
 + Accuracy: R-square value of 0.9994 (model explains 99.94% of variability of data)
 + kernel used for development/testing: kaggle
+  
+For further detail or to read the entire work, check-out the python notebook [here](https://github.com/Lord-DVD/Sparks-GRIP-June21/blob/main/stock-market-prediction-using-nlp-and-ts-analysis.ipynb).
